@@ -1,6 +1,4 @@
-from threading import Thread
 from time import sleep
-
 from assistant import TextToSpeak
 import keyboard
 back = False
@@ -24,7 +22,13 @@ def guide_help():
             print(key)
 
         if key == '1':
-            TextToSpeak("Command \"Search for\" : this command help to search Audio Books")
+            TextToSpeak("""
+                        Command \"Search for\" : this command help to search Audio Books
+                        Command \"play book\" : this command help to play a random Audio Book
+                        Command \"show book\" : this command help to show recent Audio Books
+                        Command \"help\" : this command shows help menu
+                        Command \"exit\" or \"quit\" : this both commands help you to quit the application 
+                        """)
         elif key == '2':
             TextToSpeak("you can Press \"Space\" for play or pause")
         elif key == '3':
