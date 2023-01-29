@@ -23,19 +23,11 @@ def guide_help():
 
         if key == '1':  # voice command menu voiceover
             TextToSpeak("""
-<<<<<<< Updated upstream
-                        Command \"Search\" : this command help to search Audio Books
-                        Command \"play book\" : this command help to play a random Audio Book
-                        Command \"show book\" : this command help to show recent Audio Books
-                        Command \"help\" : this command shows help menu
-                        Command \"exit\" or \"quit\" : this both commands help you to quit the application 
-=======
                         Command \"Search for book\" : this command help to search Audio Books
                         Command \"play recent book\" : this command help to play a random Audio Book
                         Command \"show recent books\" : this command help to show recent Audio Books
                         Command \"get help\" : this command shows help menu
                         Command \"exit Here\" or \"quit Here\" : this both commands help you to quit the application 
->>>>>>> Stashed changes
                         """)
         elif key == '2':  # key binding voiceover
             TextToSpeak("you can Press \"up arrow key\" for increase volume")
