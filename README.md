@@ -69,6 +69,26 @@
     4.	What is AudiMax?
 
     5.	Go back
+    
+- <h3>Special Note about Player Key Mappings</h3>
+  
+> AudiMax audio player can be control by using a keyboard. Here are the keys and a brief description of the use of that key in our player.
+
+-	__‘UP’ –__ Increase the volume
+-	__‘DOWN’ -__ Decrease the volume
+-	__‘RIGHT’ –__ Skip forward in the chapter
+-	__‘LEFT’ -__ Skip backward in the chapter
+-	__‘SPACE’ –__ Pause or Play
+-	__‘M’ –__ Mute/Unmute the audio
+-	__‘ESC’ -__ Close the audio player
+-	__‘PAGE UP’ –__ Skip to the next chapter
+-	__‘PAGE DOWN’ -__ Skip to the before chapter
+
+- <h3>About Us</h3>
+
+>> Cloud Guage is a team of 10 IT students from Sri Lanka Technological Campus, who are passionate about developing cloud application to make a difference in the world. We believe our digital skills, team spirit and dedication will make our products outstanding from one another. 
+
+
 
 
 
