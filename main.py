@@ -2,6 +2,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 import sys
+from win32api import GetSystemMetrics
 import application as app
 
 
@@ -36,7 +37,7 @@ class Window(QMainWindow):
         # adding image to label
         label.setPixmap(pixmap)
         # Optional, resize label to image size
-        label.resize(pixmap.width(), pixmap.height())
+        label.resize(GetSystemMetrics(0), GetSystemMetrics(1))
         # opening window in maximized size
 
 
