@@ -7,18 +7,22 @@
 
 > These are technologies used in the AudiMax library.
 
- + Front end: __Tailwind CSS, CSS, HTML, JS, jQuery__ 
+ + Front end: __pyQt 5, Python Library, Background Image Genarated by AI__ 
 
- + Backend: __Flask, Ajax, Python__
+ + Backend: __Python(Python-vlc, Pyaudio, Keyboard, Pyttsxs, Requests), APIs__
 
  + Database: __MySQL__
+  
+ + Cloud services: __GCP (Load balancing services, Cloud storage services)__
  
- + Cloud services: __AWS, Azure, GCP (Load balancing services, Cloud storage services)__
+ + Static files of books  included in a Storage Bucket.
+
  
 > These are the tools we have used:
- + Notion
- + VS Code
+ + Git
  + Github
+ + Pycharm
+ + readme.so
 
 - <h3>How to Install and Run</h3>
 
